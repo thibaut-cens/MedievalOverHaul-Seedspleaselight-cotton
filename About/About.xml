@@ -6,7 +6,10 @@
   <supportedVersions>
     <li>1.4</li>
   </supportedVersions>
-  <description>Spin it!</description>
+  <description>
+    Disable SeedsPlease: Lite spinning recipe and use Medieval Overhaul variant instead.
+    Also add a devilstrand spinning recip variant to Medieval Overhaul.
+  </description>
   <modDependencies>
     <li>
       <packageId>owlchemist.seedspleaselite</packageId>
