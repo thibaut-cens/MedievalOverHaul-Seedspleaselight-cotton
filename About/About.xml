@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Medieval Overhaul x SeedsPlease: Light - Cotton</name>
+  <author>Biboozz</author>
+  <packageId>Biboozz.MedievalOverhaul.Compatibility.SPligtCotton</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <description>Spin it!</description>
+  <modDependencies>
+    <li>
+      <packageId>owlchemist.seedspleaselite</packageId>
+      <displayName>SeedsPlease: Lite</displayName>
+      <downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2586052937</downloadUrl>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2586052937</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>dankpyon.medieval.overhaul</packageId>
+      <displayName>Medieval Overhaul</displayName>
+      <downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067</downloadUrl>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+	<li>owlchemist.seedspleaselite</li>
+	<li>DankPyon.Medieval.Overhaul</li>
+  </loadAfter>
+</ModMetaData>
